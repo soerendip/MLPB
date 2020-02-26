@@ -22,7 +22,7 @@
 - The course will be graded by attendance, weekly assignments, and a final capstone project.
 
 
-## Is it possible to audit the course instead of taking on a graded basis?
+## Is it possible to audit the course instead of taking it on a graded basis?
 - Auditing privileges are extended to students who have been admitted as a Degree, Visiting or Open Studies student. Auditing students participate in classroom activities however they may not be able to complete lab or tutorial components of a course. Students do not complete any exam or course assignments nor receive a grade for the course(s) they are auditing. Students may be limited to the courses they can audit due to enrolment pressures. In case you are not sure please contact Karen Barron ([kbarron@ucalgary.ca](mailto:kbarron@ucalgary.ca)).
 
 
