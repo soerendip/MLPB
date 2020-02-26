@@ -1,0 +1,8 @@
+site_name: Machine Learning with Python for Biology
+site_url: https://github.com/soerendip/MLPB
+site_author: Soren Wacker
+nav:
+  - Home: 'index.md'
+  - Q/A: 'qa.md'
+  #- Our Team: 'team.md'
+  - Contact/Registration: 'contact.md'
