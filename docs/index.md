@@ -14,6 +14,13 @@ Furthermore, students will get used to standard tools in the field such as Conda
  
 The course will start with setting up the tools and the computation environment followed by a brief introduction of Python. The Python Data Analysis Library (Pandas) and other important packages will be introduced. Finally, the machine learning workflow will be addressed: Data cleaning, exploratory data analysis, publication-quality visualizations, decomposition, clustering, classification, regression, linear models, ensemble models (Gradient Boosting, Random Forest), artificial neural networks, cross-validation, deployment of machine learning models.
 
+
+### Location and time
+- Classes will take place **Wednesdays from 10am to 1pm** starting from **May 6th 2020 until June 24th**.
+- The classroom will be **BI211** except for June 17th.
+- On June 17th the class will take place in room **BI249**.
+
+
 [More information](qa.md)
 
 [Registration](mailto:kbarron@ucalgary.ca)
