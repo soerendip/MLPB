@@ -23,13 +23,13 @@ The course will be graded by attendance, weekly assignments, and a final capston
 
 
 ## Is it possible to audit the course instead of taking on a graded basis?
-Auditing privileges are extended to students who have been admitted as a Degree, Visiting or Open Studies student. Auditing students participate in classroom activities however they may not be able to complete lab or tutorial components of a course. Students do not complete any exam or course assignments nor receive a grade for the course(s) they are auditing. Students may be limited to the courses they can audit due to enrolment pressures. In case you are not sure please contact Karen Barron ([kbarron@ucalgary.ca](mailto:kbarron@ucalgary.ca)).
+- Auditing privileges are extended to students who have been admitted as a Degree, Visiting or Open Studies student. Auditing students participate in classroom activities however they may not be able to complete lab or tutorial components of a course. Students do not complete any exam or course assignments nor receive a grade for the course(s) they are auditing. Students may be limited to the courses they can audit due to enrolment pressures. In case you are not sure please contact Karen Barron ([kbarron@ucalgary.ca](mailto:kbarron@ucalgary.ca)).
 
 
 ## What is the expected commitment of the assignments?
-The assignments are expected to take approximately one hour.
+- The assignments are expected to take approximately one hour.
 
 
 ## How to register for the course?
-For registration information and forms, please contact Karen Barron ([kbarron@ucalgary.ca](mailto:kbarron@ucalgary.ca))
+- For registration information and forms, please contact Karen Barron ([kbarron@ucalgary.ca](mailto:kbarron@ucalgary.ca))
 
