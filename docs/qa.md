@@ -19,7 +19,7 @@
 
 
 ## Will the course be graded?
-The course will be graded by attendance, weekly assignments, and a final capstone project.
+- The course will be graded by attendance, weekly assignments, and a final capstone project.
 
 
 ## Is it possible to audit the course instead of taking on a graded basis?
