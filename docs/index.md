@@ -13,8 +13,7 @@ Machine Learning (ML) is the science of getting computers to act without being e
 
 
 ## Why Python?
-[Python](https://www.python.org/) is one of the most popular contemporary programming languages for data science. It is a powerful and easy to use language without over-complicated syntax. More and more programmers are moving their code to Python which is also widely used for data analytics and machine learning. Throughout the course, we will use Python to introduce students to concepts and best practices in data analytics, data visualization, reproducible science, and machine learning. 
-
+[Python](https://www.python.org/) is one of the most popular contemporary programming languages for data science. It is a powerful and easy to use language without over-complicated syntax. More and more programmers are moving their code to Python which is also widely used for data analytics and machine learning.
 
 ## Course Content
 Students will have a chance to work through examples mainly drawn from biology, including genomics, proteomics and metabolomics data to show the various applications of Python in bioinformatics.
