@@ -5,16 +5,6 @@ This website is for the course Machine Learning with Python for Biology held at 
 ## Introduction
 Machine Learning (ML) is the science of getting computers to act without being explicitly programmed. In this class you will learn the basics of building a ML pipeline using [Python](https://www.python.org/). We will cover data preparation, exploratory data analysis, statistics, visualization, feature engineering, model building, cross-validation, classification and regression. Furthermore, you will be introduced to some of the standard tools and concepts in the field such as reproducible science, version control and virtual environments.
 
-
-## Date and Time
-- Classes will take place **Wednesdays from 10am to 1pm** starting from **May 6th 2020 until June 24th**.
-- The classroom will be **BI211** except for June 17th.
-- On June 17th the class will take place in room **BI249**.
-
-
-## Why Python?
-[Python](https://www.python.org/) is one of the most popular contemporary programming languages for data science. It is a powerful and easy to use language without over-complicated syntax. More and more programmers are moving their code to Python which is also widely used for data analytics and machine learning.
-
 ## Course Content
 Students will have a chance to work through examples mainly drawn from biology, including genomics, proteomics and metabolomics data to show the various applications of Python in bioinformatics.
  
@@ -22,6 +12,13 @@ Furthermore, students will get used to standard tools in the field such as [Cond
  
 The course will start with setting up the tools and the computation environment followed by a brief introduction of Python. The Python Data Analysis Library ([Pandas](https://pandas.pydata.org/)) and other important packages will be introduced. Finally, the machine learning workflow will be addressed: Data cleaning, exploratory data analysis, publication-quality visualizations, decomposition, clustering, classification, regression, linear models, ensemble models (Gradient Boosting, Random Forest), artificial neural networks, cross-validation, deployment of machine learning models.
 
+## Why Python?
+[Python](https://www.python.org/) is one of the most popular contemporary programming languages for data science. It is a powerful and easy to use language without over-complicated syntax. More and more programmers are moving their code to Python which is also widely used for data analytics and machine learning.
+
+## Date and Time
+- Classes will take place **Wednesdays from 10am to 1pm** starting from **May 6th 2020 until June 24th**.
+- The classroom will be **BI211** except for June 17th.
+- On June 17th the class will take place in room **BI249**.
 
 ## More Information
 More information about the course is available in the [Q/A section](qa.md).
