@@ -16,6 +16,7 @@
 - Students need to bring their own computers where they have the right to install additional software with at least 8GB RAM and 1GB free disc space. 
 - It is recommended to install Python using Miniconda before the class starts. Familiarity with Git, GitHub, Python, Bash (Command Line), Jupyter-Lab is beneficial.
 - Students have to [register](mailto:kbarron@ucalgary.ca) before they can attend or audit the course.
+- A basic understanding of Linear Algebra (Vector and Matix calculus) is assumed.
 
 
 ## Will the course be graded?
