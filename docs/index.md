@@ -25,3 +25,6 @@ The course will start with setting up the tools and the computation environment 
 [More information](qa.md)
 
 [Registration](mailto:kbarron@ucalgary.ca)
+
+![University of Calgary](https://www.ucalgary.ca/brand/system/files/uc-vert-rgb-sml.jpg)
+![Python](https://www.python.org/static/img/python-logo.png)
