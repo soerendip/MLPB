@@ -1,5 +1,7 @@
 # Machine Learning with Python for Biology
 
+## BIOL 607.84
+
 This website is for the course Machine Learning with Python for Biology held at the [University of Calgary](https://www.ucalgary.ca) in Spring 2020. An introductory course into Machine Learning using Python for graduate students, post-docs, and research associates in fields related to the Biological Sciences.
 
 ## Introduction
