@@ -1,8 +1,6 @@
 # Machine Learning with Python for Biology
 
-**BIOL 607.84**
-
-This website is for the course Machine Learning with Python for Biology held at the [University of Calgary](https://www.ucalgary.ca) in Spring 2020. An introductory course into Machine Learning using Python for graduate students, post-docs, and research associates in fields related to the Biological Sciences.
+This website is for the course Machine Learning with Python for Biology (**BIOL 607.84**) held at the [University of Calgary](https://www.ucalgary.ca) in Spring 2020. An introductory course into Machine Learning using Python for graduate students, post-docs, and research associates in fields related to the Biological Sciences.
 
 ## Introduction
 Machine Learning (ML) is the science of getting computers to act without being explicitly programmed. In this class you will learn the basics of building ML pipelines using [Python](https://www.python.org/). We will cover data preparation, exploratory data analysis, statistics, visualization, feature engineering, model building, cross-validation, classification and regression. Furthermore, you will be introduced to some of the standard tools and concepts in the field such as reproducible science, version control and virtual environments.
