@@ -28,5 +28,5 @@ The course will start with setting up the tools and the computation environment 
 More information about the course is available in the [Q/A section](qa.md).
 
 ## Registration
-For registration please write an email to [kbarron@ucalgary.ca](mailto:kbarron@ucalgary.ca).
+Please, help us assessing the level of your current knowledge by filling out the [poll](https://www.poll-maker.com/poll2792861x974DeF49-82). Then, for registration, please write an email to [kbarron@ucalgary.ca](mailto:kbarron@ucalgary.ca). Indicate if you are student, Postdoc, etc and if you want to join the course on a graded basis or audit. Thanks!
 
