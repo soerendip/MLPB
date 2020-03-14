@@ -31,6 +31,6 @@
 - The assignments are expected to take approximately one hour.
 
 
-## How to register for the course?
-- For registration information and forms, please contact Karen Barron ([kbarron@ucalgary.ca](mailto:kbarron@ucalgary.ca))
+## Where do I find information about **registration** for the course?
+- You can find information about how to register [here](contact.md)
 
